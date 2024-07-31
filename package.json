@@ -30,6 +30,6 @@
     "vite": "^5.2.0"
   },
   "stackblitz": {
-    "startCommand": "npm install @@ npm run start"
+    "startCommand": "npm start"
   }
 }
