@@ -75,7 +75,7 @@ const PostDetails: React.FC = () => {
 
   return (
     <Container>
-      <h1>Posts</h1>
+      <h1>Top 10 Posts</h1>
       <Row>
         {posts.map((post: Post) => (
           <PostCard key={post.id}>
